@@ -1,0 +1,19 @@
+{
+  "name": "abstract-genetic-solver",
+  "version": "0.0.1",
+  "description": "A genetic solver that's abstract",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/maximizeSum.js"
+  },
+  "author": "Andy Hall",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andyhall/abstract-genetic-solver.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andyhall/abstract-genetic-solver/issues"
+  },
+  "homepage": "https://github.com/andyhall/abstract-genetic-solver#readme"
+}
